@@ -1865,6 +1865,7 @@ TXN_4857957,CUST_25,Patisserie,Item_12_PAT,21.5,8.0,172.0,Digital Wallet,Online,
 TXN_6822752,CUST_21,Computers and electric accessories,Item_5_CEA,11.0,10.0,110.0,Digital Wallet,Online,2022-01-13,
 TXN_6192944,CUST_19,Electric household essentials,Item_20_EHE,33.5,8.0,268.0,Digital Wallet,In-store,2025-01-03,False
 TXN_3622317,CUST_13,Electric household essentials,Item_10_EHE,18.5,2.0,37.0,Cash,Online,2023-02-25,False
+TXN_5379241,CUST_05,Butchers,Item_20_BUT,33.5,10.0,335.0,Credit Card,In-store,2023-04-12,False
 TXN_5782730,CUST_05,Beverages,Item_8_BEV,15.5,3.0,46.5,Digital Wallet,In-store,2022-10-03,False
 TXN_5921416,CUST_11,Butchers,Item_3_BUT,8.0,2.0,16.0,Cash,Online,2024-04-05,
 TXN_3895137,CUST_08,Beverages,Item_7_BEV,14.0,4.0,56.0,Credit Card,Online,2023-03-29,False
@@ -2329,6 +2330,7 @@ TXN_6492020,CUST_18,Computers and electric accessories,Item_7_CEA,14.0,3.0,42.0,
 TXN_4205609,CUST_16,Electric household essentials,,,8.0,280.0,Digital Wallet,In-store,2022-01-28,
 TXN_2412242,CUST_04,Electric household essentials,Item_22_EHE,36.5,6.0,219.0,Digital Wallet,In-store,2023-07-09,
 TXN_5836421,CUST_01,Furniture,Item_6_FUR,12.5,2.0,25.0,Credit Card,Online,2022-03-10,True
+TXN_7129969,CUST_18,Furniture,Item_1_FUR,5.0,5.0,25.0,Credit Card,In-store,2022-03-19,True
 TXN_2955038,CUST_19,Food,Item_20_FOOD,33.5,6.0,201.0,Credit Card,Online,2023-06-18,
 TXN_9321578,CUST_09,Beverages,Item_12_BEV,21.5,10.0,215.0,Digital Wallet,Online,2022-02-18,
 TXN_1156896,CUST_03,Computers and electric accessories,Item_23_CEA,38.0,5.0,190.0,Cash,Online,2024-06-07,
@@ -2522,6 +2524,7 @@ TXN_1350230,CUST_15,Butchers,Item_15_BUT,26.0,4.0,104.0,Cash,Online,2022-11-18,F
 TXN_6562034,CUST_16,Food,Item_25_FOOD,41.0,4.0,164.0,Cash,Online,2023-02-08,True
 TXN_4581067,CUST_17,Milk Products,Item_14_MILK,24.5,9.0,220.5,Credit Card,In-store,2022-06-04,True
 TXN_5518537,CUST_19,Food,,,1.0,11.0,Cash,In-store,2023-02-08,
+TXN_9884963,CUST_19,Furniture,Item_11_FUR,20.0,3.0,60.0,Digital Wallet,In-store,2024-04-13,
 TXN_8385569,CUST_11,Beverages,Item_3_BEV,8.0,1.0,8.0,Digital Wallet,Online,2023-04-13,False
 TXN_1625647,CUST_22,Computers and electric accessories,Item_3_CEA,8.0,3.0,24.0,Digital Wallet,In-store,2024-01-23,True
 TXN_6257905,CUST_19,Furniture,Item_24_FUR,39.5,5.0,197.5,Cash,In-store,2024-08-29,False
@@ -3342,6 +3345,7 @@ TXN_6254334,CUST_23,Butchers,,32.0,,,Digital Wallet,Online,2022-03-29,
 TXN_9013444,CUST_12,Food,Item_3_FOOD,8.0,10.0,80.0,Credit Card,Online,2023-07-23,False
 TXN_9695630,CUST_16,Butchers,Item_20_BUT,33.5,9.0,301.5,Digital Wallet,Online,2024-11-04,
 TXN_6569610,CUST_12,Computers and electric accessories,Item_13_CEA,23.0,6.0,138.0,Credit Card,In-store,2024-01-20,False
+TXN_9344795,CUST_12,Milk Products,Item_7_MILK,14.0,1.0,14.0,Cash,In-store,2024-10-20,True
 TXN_6239964,CUST_22,Milk Products,Item_22_MILK,36.5,3.0,109.5,Credit Card,In-store,2023-01-31,False
 TXN_7581231,CUST_18,Milk Products,,14.0,,,Credit Card,In-store,2024-12-09,
 TXN_6376892,CUST_20,Furniture,Item_16_FUR,27.5,5.0,137.5,Credit Card,Online,2023-05-17,
@@ -12575,4 +12579,5 @@ TXN_4009414,CUST_03,Beverages,Item_2_BEV,6.5,9.0,58.5,Cash,Online,2022-08-12,Fal
 TXN_5306010,CUST_11,Butchers,Item_7_BUT,14.0,10.0,140.0,Cash,Online,2024-08-24,
 TXN_5167298,CUST_04,Furniture,Item_7_FUR,14.0,6.0,84.0,Cash,Online,2023-12-30,True
 TXN_2407494,CUST_23,Food,Item_9_FOOD,17.0,3.0,51.0,Cash,Online,2022-08-06,
+
 
