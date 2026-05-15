@@ -77,9 +77,9 @@ id,Gender,Age,City,Profession,Academic Pressure,Work Pressure,CGPA,Study Satisfa
 800076,Male,30.0,Srinagar,Student,1.0,0.0,6.16,3.0,0.0,'7-8 hours',Unhealthy,M.Ed,Yes,2.0,4.0,No,1
 800077,Female,21.0,Ludhiana,Student,3.0,0.0,7.19,3.0,0.0,'7-8 hours',Unhealthy,MSc,Yes,8.0,1.0,No,1
 800078,Male,23.0,Visakhapatnam,Student,1.0,0.0,9.43,5.0,0.0,'5-6 hours',Moderate,M.Tech,Yes,9.0,2.0,Yes,1
-800079,Female,20.0,Thane,Student,4.0,0.0,5.55,1.0,0.0,'5-6 hours',Unhealthy,MCA,Yes,12.0,1.0,Yes,1
-800080,Male,25.0,Visakhapatnam,Student,2.0,0.0,6.65,4.0,0.0,'7-8 hours',Moderate,Class 12,Yes,7.0,2.0,No,1
-800081,Female,30.0,Srinagar,Student,5.0,0.0,6.24,5.0,0.0,'More than 8 hours',Healthy,B.Pharm,No,4.0,3.0,No,0
+800079,Male,25.0,Hyderabad,Student,1.0,0.0,5.51,4.0,0.0,'7-8 hours',Healthy,M.Com,Yes,8.0,1.0,Yes,0
+800080,Female,23.0,Mumbai,Student,4.0,0.0,7.25,5.0,0.0,'5-6 hours',Moderate,BA,No,12.0,1.0,No,0
+800081,Female,24.0,Agra,Student,3.0,0.0,7.88,4.0,0.0,'7-8 hours',Healthy,B.Pharm,No,6.0,4.0,Yes,0
 800082,Male,29.0,Jaipur,Student,4.0,0.0,6.6,5.0,0.0,'7-8 hours',Healthy,B.Ed,Yes,2.0,5.0,Yes,1
 800083,Male,23.0,Bangalore,Student,5.0,0.0,6.65,1.0,0.0,'7-8 hours',Unhealthy,BA,No,3.0,1.0,Yes,0
 800084,Female,27.0,Kolkata,Student,3.0,0.0,5.31,1.0,0.0,'7-8 hours',Healthy,BE,No,5.0,3.0,No,0
@@ -88,13 +88,13 @@ id,Gender,Age,City,Profession,Academic Pressure,Work Pressure,CGPA,Study Satisfa
 800087,Female,33.0,Delhi,Student,3.0,0.0,8.59,1.0,0.0,'More than 8 hours',Healthy,PhD,Yes,8.0,1.0,No,0
 800088,Female,19.0,Agra,Student,4.0,0.0,5.46,1.0,0.0,'More than 8 hours',Moderate,'Class 12',No,4.0,1.0,Yes,0
 800089,Female,31.0,Thane,Student,5.0,0.0,6.71,2.0,0.0,'7-8 hours',Moderate,M.Ed,No,12.0,3.0,Yes,0
-800090,Female,33.0,Varanasi,Student,3.0,0.0,7.69,4.0,0.0,'7-8 hours',Unhealthy,BA,Yes,12.0,1.0,Yes,1
-800091,Female,27.0,Thane,Student,4.0,0.0,9.49,3.0,0.0,'5-6 hours',Healthy,BA,No,5.0,4.0,No,0
-800092,Male,31.0,Jaipur,Student,2.0,0.0,5.19,2.0,0.0,'Less than 5 hours',Unhealthy,M.Ed,No,12.0,1.0,No,0
-800093,Female,22.0,Jaipur,Student,4.0,0.0,5.76,5.0,0.0,'More than 8 hours',Healthy,M.Tech,No,4.0,2.0,No,0
-800094,Male,27.0,Jaipur,Student,4.0,0.0,9.21,5.0,0.0,'5-6 hours',Moderate,BSc,No,2.0,3.0,Yes,0
-800095,Female,19.0,Rajkot,Student,3.0,0.0,8.45,5.0,0.0,'7-8 hours',Healthy,B.Ed,No,11.0,2.0,Yes,0
-800096,Male,27.0,Varanasi,Student,1.0,0.0,6.37,4.0,0.0,'Less than 5 hours',Healthy,MSc,No,6.0,5.0,No,0
+800090,Male,20.0,Ludhiana,Student,4.0,0.0,8.74,4.0,0.0,'5-6 hours',Healthy,'Class 12',Yes,10.0,2.0,No,1
+800091,Male,19.0,Vasai-Virar,Student,3.0,0.0,6.99,4.0,0.0,'7-8 hours',Moderate,'Class 12',Yes,8.0,5.0,No,0
+800092,Male,20.0,Rajkot,Student,5.0,0.0,6.27,2.0,0.0,'Less than 5 hours',Unhealthy,'Class 12',Yes,8.0,5.0,Yes,1
+800093,Male,30.0,Faridabad,Student,4.0,0.0,7.91,1.0,0.0,'Less than 5 hours',Healthy,LLB,Yes,12.0,5.0,No,1
+800094,Female,21.0,Ahmedabad,Student,2.0,0.0,7.82,5.0,0.0,'5-6 hours',Healthy,MA,Yes,12.0,2.0,Yes,0
+800095,Male,19.0,Bangalore,Student,3.0,0.0,7.04,2.0,0.0,'More than 8 hours',Moderate,'Class 12',Yes,11.0,4.0,No,1
+800096,Male,34.0,Ludhiana,Student,2.0,0.0,5.74,3.0,0.0,'More than 8 hours',Unhealthy,B.Com,No,5.0,1.0,Yes,0
 800097,Female,27.0,Kolkata,Student,1.0,0.0,8.32,2.0,0.0,'More than 8 hours',Healthy,M.Tech,Yes,6.0,2.0,No,1
 800098,Female,21.0,Ludhiana,Student,3.0,0.0,5.89,3.0,0.0,'Less than 5 hours',Unhealthy,B.Pharm,Yes,5.0,5.0,No,1
 800099,Female,22.0,Varanasi,Student,5.0,0.0,6.95,4.0,0.0,'5-6 hours',Unhealthy,BE,No,7.0,4.0,Yes,0
